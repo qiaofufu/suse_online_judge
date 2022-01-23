@@ -1,0 +1,19 @@
+server:
+  port: 80
+  version: 1.0
+
+database:
+  host: 114.132.236.147
+  port: 3306
+  database: onlinejudge
+  username: root
+  password: 8023Qiao
+  charset: utf8
+redis:
+  address: 114.132.236.147:6379
+  password: 8023hh
+email:
+  host: smtp.qq.com
+  port: 25
+  password: cqzwbczfvwarbccj
+  address: 707402933@qq.com
